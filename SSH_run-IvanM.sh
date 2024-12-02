@@ -13,75 +13,75 @@ Fiuscha="\033[0;35m"
 blue="\033[1;34m"
 nc="\e[0m"
 clear
-echo -e "$green install proxy for telegram & twitter in termux"
+echo -e "$green IvanM🤯 Instalar Proxy En Telegram Y Twitter En Termux"
 sleep 4
-echo -e "$red add proxy socks5"
+echo -e "$red Agregar Proxy Socks5"
 sleep 5
-echo "address : 127.0.0.1"
+echo "Dirección: 127.0.0.1"
 sleep 3 
-echo "port : 9050"
+echo "Puerto : 9050"
 sleep 5
-echo -e "$yellow then wait to installing... "
+echo -e "$yellow Espera Instalando...🫢"
 sleep 6
 clear
-echo "Installing ..."
+echo "Instalando...🫢"
 sleep 1
 clear
-echo "iNstalling ..."
+echo "Instalando...🫢"
 sleep 1
 clear 
-echo "inStalling ..."
+echo "Instalando...🫢"
 sleep 1
 clear
-echo "insTalling ..."
+echo "Instalando...🫢"
 sleep 1
 clear
-echo "instAlling ..."
+echo "Instalando...🫢"
 sleep 1
 clear
-echo "instaLling ..."
+echo "Instalando...🫢"
 sleep 1
 clear
-echo "instalLing ..."
+echo "Instalando...🫢"
 sleep 1
 clear
-echo "installIng ..."
+echo "Instalando...🫢"
 sleep 1
 clear
-echo "installiNg ..."
+echo "Instalando...🫢"
 sleep 1
 clear
-echo "installinG ..."
+echo "Instalando...🫢"
 sleep 1
 clear
-echo "Installing ..."
+echo "Instalando...🫢"
 sleep 1
 clear
-echo "iNstalling ..."
+echo "Instalando...🫢"
 sleep 1
 clear 
-echo "inStalling ..."
+echo "Instalando...🫢"
 sleep 1
 clear
-echo "insTalling ..."
+echo "Instalando...🫢"
 sleep 1
 clear
-echo "instAlling ..."
+echo "Instalando...🫢"
 sleep 1
 clear
-echo "instaLling ..."
+echo "Instalando...🫢"
 sleep 1
 clear
-echo "instalLing ..."
+echo "Instalando...🫢"
 sleep 1
 clear
-echo "installIng ..."
+echo "Instalando...🫢"
 sleep 1
 clear
-echo "installiNg ..."
+echo "Instalando...🫢"
 sleep 1
 clear
-echo "installinG ..."
+echo "Instalando...🫢"
 sleep 1
 clear
 apt update
@@ -91,7 +91,7 @@ clear
 figlet -f banner wait
 sleep 3
 figlet -f digital start
-echo "installing...."
+echo "Instalando...🫢"
 sleep 2
 apt install tor privoxy zsh wget git -y
 clear
@@ -103,10 +103,10 @@ chsh -s zsh
 cd ~
 echo clear >> .zshrc
 echo figlet -f big WELCOME >> .zshrc
-echo echo "set socks5 proxy in telegram 127.0.0.1:9050" >> .zshrc
+echo echo "Configurar El Proxy Calcetines5 En Telegrama 127.0.0.1:9050" >> .zshrc
 echo sleep 3 >> .zshrc
-echo echo "set http proxy in twitter 127.0.0.1:8118" >> .zshrc
-echo echo "if not connect to tor set username and password = 1" >> .zshrc
+echo echo "Configurar El Proxy Http En Twitter 127.0.0.1:8118" >> .zshrc
+echo echo "Si No, Conéctese A Tor, Establezca El Nombre De Usuario Y La Contraseña = 1" >> .zshrc
 echo sleep 5 >> .zshrc
 echo echo code by init__0 >> .zshrc
 echo sleep 4 >> .zshrc
